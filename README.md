@@ -28,7 +28,7 @@ Paradise Nursery is an online houseplant shopping web application built with Rea
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sumit21012006/e-plantShopping.git
+   git clone https://github.com/Apurva-jpg963/e-plantShopping.git
    cd e-plantShopping
    ```
 
